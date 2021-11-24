@@ -1,0 +1,87 @@
+
+[
+    {
+      "id":1,
+      "name":"Irrigation",
+      "info":"Irrigation is the agricultural process of applying controlled amounts of water to land to assist in the production of crops, as well as to grow landscape plants and lawns, where it may be known as watering. Agriculture that does not use irrigation but instead relies only on direct rainfall is referred to as rain-fed. Irrigation has been a central feature of agriculture for over 5,000 years and has been developed independently by many cultures across the globe. Irrigation helps to grow agricultural crops, maintain landscapes, and revegetate disturbed soils in dry areas and during periods of less than average rainfall. Irrigation also has other uses in crop production, including frost protection, suppressing weed growth in grain fields and preventing soil consolidation. Irrigation systems are also used for cooling livestock, dust suppression, disposal of sewage, and in mining. Irrigation is often studied together with drainage, which is the removal of surface and subsurface water from a given location.",
+      "image1":"",
+      "image2":""
+    } ,
+    {
+      "id":2,
+      "name":"Harvesting",
+      "info":"Harvesting is the process of gathering a ripe crop from the fields. Reaping is the cutting of grain or pulse for harvest, typically using a scythe, sickle, or reaper. On smaller farms with minimal mechanization, harvesting is the most labor-intensive activity of the growing season. On large mechanized farms, harvesting uses the most expensive and sophisticated farm machinery, such as the combine harvester. Process automation has increased the efficiency of both the seeding and harvesting processes. Specialized harvesting equipment utilizing conveyor belts to mimic gentle gripping and mass-transport replaces the manual task of removing each seedling by hand. The term 'harvesting' in general usage may include immediate postharvest handling, including cleaning, sorting, packing, and cooling.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":3,
+      "name":"Ranch",
+      "info":"A ranch (from Spanish: rancho) is an area of land, including various structures, given primarily to ranching, the practice of raising grazing livestock such as cattle and sheep. It is a subtype of a farm. These terms are most often applied to livestock-raising operations in Mexico, the Western United States and Western Canada, though there are ranches in other areas. People who own or operate a ranch are called ranchers, cattlemen, or stockgrowers. Ranching is also a method used to raise less common livestock such as horses, elk, American bison or even ostrich, emu, and alpaca.Ranches generally consist of large areas, but may be of nearly any size. In the western United States, many ranches are a combination of privately owned land supplemented by grazing leases on land under the control of the federal Bureau of Land Management or the United States Forest Service. If the ranch includes arable or irrigated land, the ranch may also engage in a limited amount of farming, raising crops for feeding the animals, such as hay and feed grains.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":4,
+      "name":"Fertilizer",
+      "info":"Fertilizers may be distinct from liming materials or other non-nutrient soil amendments. Many sources of fertilizer exist, both natural and industrially produced. For most modern agricultural practices, fertilization focuses on three main macronutrients: Nitrogen (N), Phosphorus (P), and Potassium (K) with occasional addition of supplements like rock dust for micronutrients. Farmers apply these fertilizers in a variety of ways: through dry or pelletized or liquid application processes, using large agricultural equipment or hand-tool methods.A large, modern fertilizer spreader. A Lite-Trac Agri-Spread lime and fertilizer spreader at an agricultural show Historically fertilization came from natural or organic sources: compost, animal manure, human manure, harvested minerals, crop rotations and byproducts of human-nature industries. (i.e. fish processing waste, or bloodmeal from animal slaughter).",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":5,
+      "name":"Crop rotation",
+      "info":"Crop rotation is the practice of growing a series of different types of crops in the same area across a sequence of growing seasons. It reduces reliance on one set of nutrients, pest and weed pressure, and the probability of developing resistant pest and weeds. Growing the same crop in the same place for many years in a row, known as monocropping, gradually depletes the soil of certain nutrients and selects for a highly competitive pest and weed community. Without balancing nutrient use and diversifying pest and weed communities, the productivity of monocultures is highly dependent on external inputs. Conversely, a well-designed crop rotation can reduce the need for synthetic fertilizers and herbicides by better using ecosystem services from a diverse set of crops. Additionally, crop rotations can improve soil structure and organic matter, which reduces erosion and increases farm system resilience.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":6,
+      "name":"Plough",
+      "info":"A plough is a farm tool for loosening or turning the soil before sowing seed or planting. Ploughs were traditionally drawn by oxen and horses, but in modern farms are drawn by tractors. A plough may have a wooden, iron or steel frame, with a blade attached to cut and loosen the soil. It has been fundamental to farming for most of history. The earliest ploughs had no wheels; such a plough was known to the Romans as an aratrum. Celtic peoples first came to use wheeled ploughs in the Roman era. Traditional ploughing- a farmer works the land with horses and plough. The prime purpose of ploughing is to turn over the uppermost soil, bringing fresh nutrients to the surface while burying weeds and crop remains to decay. Trenches cut by the plough are called furrows. In modern use, a ploughed field is normally left to dry and then harrowed before planting. Ploughing and cultivating soil evens the content of the upper 12 to 25 centimetres layer of soil, where most plant-feeder roots grow. Ploughs were initially powered by humans, but the use of farm animals was considerably more efficient. The earliest animals worked were oxen. Later, horses and mules were used in many areas. With the industrial revolution came the possibility of steam engines to pull ploughs. These in turn were superseded by internal-combustion-powered tractors in the early 20th century.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":7,
+      "name":"Cash Crop",
+      "info":"A cash crop or profit crop is an agricultural crop which is grown to sell for profit. It is typically purchased by parties separate from a farm. The term is used to differentiate marketed crops from subsistence crops, which are those fed to the producer's own livestock or grown as food for the producer's family. In earlier times cash crops were usually only a small (but vital) part of a farm's total yield, while today, especially in developed countries and among smallholders almost all crops are mainly grown for revenue. In the least developed countries, cash crops are usually crops which attract demand in more developed nations, and hence have some export value. Prices for major cash crops are set in commodity markets with global scope, with some local variation (termed as 'basis') based on freight costs and local supply and demand balance. A consequence of this is that a nation, region, or individual producer relying on such a crop may suffer low prices should a bumper crop elsewhere lead to excess supply on the global markets. This system has been criticized by traditional farmers. Coffee is an example of a product that has been susceptible to significant commodity futures price variations.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":8,
+      "name":"Cereal",
+      "info":"A cereal is any grass cultivated (grown) for the edible components of its grain (botanically, a type of fruit called a caryopsis), composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself (specifically 'cereal grain'). Cereal grain crops are grown in greater quantities and provide more food energy worldwide than any other type of crop and are therefore staple crops. Edible grains from other plant families, such as buckwheat, quinoa and chia, are referred to as pseudocereals.In their natural, unprocessed, whole grain form, cereals are a rich source of vitamins, minerals, carbohydrates, fats, oils, and protein. When processed by the removal of the bran, and germ, the remaining endosperm is mostly carbohydrate. In some developing countries, grain in the form of rice, wheat, millet, or maize constitutes a majority of daily sustenance. In developed countries, cereal consumption is moderate and varied but still substantial, primarily in the form of refined and processed grains.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":9,
+      "name":"Fallow",
+      "info":"Fallow is a farming technique in which arable land is left without sowing for one or more vegetative cycles. The goal of fallowing is to allow the land to recover and store organic matter while retaining moisture and disrupting the life cycles of pathogens by temporarily removing their hosts. Fallowing is also essential to biodiversity, which ensures the presence of predators which can control pests. It is a technique often used in crop rotation. Existing weeds may be affected by predators and pests. These, along with the use of green manure can ensure the restoration of depleted nutrients to the soil composition before another crop cycle.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":10,
+      "name":"Floriculture",
+      "info":"Floriculture crops include bedding plants, houseplants, flowering garden and pot plants, cut cultivated greens, and cut flowers. As distinguished from nursery crops, floriculture crops are generally herbaceous. Bedding and garden plants consist of young flowering plants (annuals and perennials) and vegetable plants. They are grown in cell packs (in flats or trays), in pots, or in hanging baskets, usually inside a controlled environment, and sold largely for gardens and landscaping. Pelargonium ('geraniums'), Impatiens ('busy lizzies'), and Petunia are the best-selling bedding plants. The many cultivars of Chrysanthemum are the major perennial garden plant in the United States. Flowering plants are largely sold in pots for indoor use. The major flowering plants are poinsettias, orchids, florist chrysanthemums, and finished florist azaleas. Foliage plants are also sold in pots and hanging baskets for indoor and patio use, including larger specimens for office, hotel, and restaurant interiors.",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":11,
+      "name":"Germination",
+      "info":"Germination is the process by which an organism grows from a seed or spore. The term is applied to the sprouting of a seedling from a seed of an angiosperm or gymnosperm, the growth of a sporeling from a spore, such as the spores of fungi, ferns, bacteria, and the growth of the pollen tube from the pollen grain of a seed plant. Germination is usually the growth of a plant contained within a seed; it results in the formation of the seedling. It is also the process of reactivation of metabolic machinery of the seed resulting in the emergence of radicle and plumule. The seed of a vascular plant is a small package produced in a fruit or cone after the union of male and female reproductive cells. All fully developed seeds contain an embryo and, in most plant species, some store of food reserves, wrapped in a seed coat. Some plants produce varying numbers of seeds that lack embryos; these are empty seeds which never germinate. Dormant seeds are viable seeds that do not germinate because they require specific internal or environmental stimuli to resume growth. Under proper conditions, the seed begins to germinate and the embryo resumes growth, developing into a seedling. ",
+      "image1":"",
+      "image2":""
+    },
+    {
+      "id":12,
+      "name":"Animal husbandry",
+      "info":"Animal husbandry is the branch of agriculture concerned with animals that are raised for meat, fibre, milk, or other products. It includes day-to-day care, selective breeding and the raising of livestock. Husbandry has a long history, starting with the Neolithic revolution when animals were first domesticated, from around 13,000 BC onwards, predating farming of the first crops. By the time of early civilisations such as ancient Egypt, cattle, sheep, goats and pigs were being raised on farms. Major changes took place in the Columbian exchange when Old World livestock were brought to the New World, and then in the British Agricultural Revolution of the 18th century, when livestock breeds like the Dishley Longhorn cattle and Lincoln Longwool sheep were rapidly improved by agriculturalists such as Robert Bakewell to yield more meat, milk, and wool. A wide range of other species such as horse, water buffalo, llama, rabbit and guinea pig are used as livestock in some parts of the world. Insect farming, as well as aquaculture of fish, molluscs, and crustaceans, is widespread. Modern animal husbandry relies on production systems adapted to the type of land available. Subsistence farming is being superseded by intensive animal farming in the more developed parts of the world, where for example beef cattle are kept in high density feedlots, and thousands of chickens may be raised in broiler houses or batteries. On poorer soil such as in uplands, animals are often kept more extensively, and may be allowed to roam widely, foraging for themselves. Most livestock are herbivores, except for pigs and chickens which are omnivores. Ruminants like cattle and sheep are adapted to feed on grass; they can forage outdoors, or may be fed entirely or in part on rations richer in energy and protein, such as pelleted cereals. Pigs and poultry cannot digest the cellulose in forage, and require other high-protein foods.",
+      "image1":"",
+      "image2":""
+    }
+]
